@@ -40,7 +40,7 @@ if(isset($_SESSION['id']) && isset($_SESSION['email'])){
 
 <head>
   <meta charset="UTF-8">
-  <title>Haxonic</title>
+  <title>HAXONIC</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
